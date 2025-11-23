@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @incrediblepandey
+- 👋 Hi, I’m @satyampandey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on blockchain
